@@ -44,6 +44,23 @@
   text-decoration: none;
 }
 
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.weather-forecast-date 
+.weather-forecast-temperature-min {
+  font-size: 16px;
+  color: #000;
+  opacity: 0.6;
+
+}
+
+.weather-forecast-temperatures {
+font-size: 13px;
+}
+
 h1 {
   color: #878787;
   font-size: 24px;
